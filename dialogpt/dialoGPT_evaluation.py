@@ -10,6 +10,7 @@ from collections import Counter
 # Load the tokenizer 
 tokenizer = AutoTokenizer.from_pretrained('microsoft/DialoGPT-small', padding_side='left')
 
+# Fine-tuned model and tokenizer's directory: https://drive.google.com/drive/folders/10GTL7iIQQXHElqIhfuGVf1s9DKBQHOwB?usp=sharing
 # Replace the model with the path of the actual one that has fine-tuned
 model = AutoModelWithLMHead.from_pretrained("dialoGPT-checkpoint-19200")
 rouge = Rouge()
