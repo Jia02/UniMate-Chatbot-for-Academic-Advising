@@ -1,0 +1,770 @@
+[
+    [
+        "What is the vision, mission, and creed of Sunway University, and how are they elaborated upon?",
+        "SUNWAY UNIVERSITY: VISION, MISSION, CREED AND EDUCATIONAL GOALS OUR VISION To be a World Class University,OUR MISSION To nurture all-round individuals and devote ourselves to the discovery, advancement, transmission and application of knowledge that meet the needs of our society and the global community,OUR CREED Sunway University will carry out its mission with integrity and unwavering dedication to excellence, enterprise, professionalism, financial self-reliance, innovation, mutual respect and team spirit"
+    ],
+    [
+        "What are the educational goals of Sunway University, and how are they elaborated upon?",
+        "OUR EDUCATIONAL GOALS Sunway University students will: become independent, lifelong learners who actively pursue knowledge and appreciate its global,application to economic, political, social and cultural development / become empowered with the competencies and capacity to contribute to a fast-changing economic, social and technological world / develop strong leadership qualities and communication skills / be prepared for careers that enable them to lead productive, fulfilling and meaningful lives / value integrity and become ethical, accountable, caring and responsible members of society."
+    ],
+    [
+        "What is Sunway University's pursuit, and how is it elaborated upon?",
+        "Sunway University seeks to carry out its mission with integrity and unwavering commitment to quality, service and excellence, financial self-reliance and professionalism, through continuous improvement, innovation, dedication, caring, mutual respect and team spirit."
+    ],
+    [
+        "What is the message conveyed by the Group Registrar, and how is it elaborated upon?",
+        "MESSAGE FROM THE GROUP REGISTRAR. It is my great pleasure to welcome all new students to Sunway University. Congratulations on your successful admission to the various programmes in Sunway University for the 2023 academic year. You have made the right decision to join this institution where people come together to learn from the best, to get first-hand knowledge through research-led teaching and to be exposed to global intellectual discourse in an experiential environment. To help you navigate your life as a student here at Sunway University, the Registry has prepared this student handbook for you."
+    ],
+    [
+        "What is the goal of the student handbook created by Sunway University's Registry?",
+        "This handbook contains information on campus services and resources available to students, general rules and regulations, enrolment matters and important dates. This handbook serves as your main source of reference on official information related to academic administration and your responsibilities as a student in Sunway University. It is hoped that you will use the information provided in this handbook to plan your studies well and complete your studies on time.Section 6 of this handbook provides vital information to international students. As such, I hope all international students will take note of the information and requirements stated in this section."
+    ],
+    [
+        "What does Sunway University's student handbook offer its readers in terms of information and its intended use?",
+        "As for the following section, besides equipping the campus with state-of-the-art teaching and research facilities, the University also endeavours to provide students with the right ecosystem and support so that you are able to enjoy a holistic student life.This handbook is subject to change hence you are encouraged to regularly check the online version at the Registry and iZone portal for updates. I hope you will benefit from the information provided in this handbook.I wish you success in all aspects of your student life. Ms Ng Beng Lean Group Registrar."
+    ],
+    [
+        "What initiatives does Sunway University take to encourage students in their development of a complete student life?",
+        "1.1 GENERAL INFORMATION The Student Handbook is designed to complement the Sunway University Code of Conduct and your programme handbooks. These publications provide the information you need to make the most out of your learning experience with Sunway University. The Student Handbook contains information you need to know about your rights and responsibilities as a student. You will also find information about the academic department, facilities and campus services available at Sunway University campus. It is your responsibility to read and be conversant with the rules and regulations stated in the above publications. You will be expected to have this knowledge when studying at Sunway University. The Student Handbook will be updated from time to time and the latest copy is posted at https://izone.sunway.edu.my "
+    ],
+    [
+        "What additional manuals or handbooks has Sunway University written, and what details are included?",
+        "1.2 OTHER UNIVERSITY HANDBOOK Sunway University publishes the following handbooks: 1. The Sunway University Student Code of Conduct This handbook has been made available to all students at https://izone.sunway.edu.my. (Published by Registry) 2. Student Handbook for Postgraduate Programmes Incorporating information for students undertaking the Sunway University postgraduate programmes. (Published by School/Centre/Department) 3. Programme Handbook Incorporating programme information for students. (Published by School/Centre/Department) "
+    ],
+    [
+        "What are Sunway University's schools, together with the departments and centres that make up each one?",
+        "Department of Communication, Department of Film and Performing Arts Department of Art,and Design and Media are all under School of Arts (SOA). Department of Psychology, Department of Biological Sciences, Department of Nursing, Department of Medical Sciences, and Department of Allied Healthcar are all under School of Medical and Life Sciences (SMLS). Department of Computing and Information Systems, and Department of Engineering are all under School of Engineering and Technology (SET). Department of Accounting, Department of Marketing Strategy and Innovation, Department of Management, Department of Economics and Finance, and Department of Business are all under Analytics Sunway Business School (SBS). Department of Pure and Applied Mathematics, Department of Actuarial Science & Risk, and Department of Applied Statistics are all under School of Mathematical Sciences (SMS)."
+    ],
+    [
+        "What are the Sunway University's corresponding departments and centres for the following schools?",
+        "School of Hospitality and Services Management (SHSM) has Centre for Hospitality Innovation & Leadership. Centre for English Language Studies, Jeffrey Sachs Centre on Sustainable Development, and Jeffrey Cheah Institute on Southeast Asia are all under School of Interdisciplinary Studies (SINDS)"
+    ],
+
+    [
+        "What are the many Sunway campus types and what does each one entail?",
+        " 1.4 CAMPUSES Sunway has five campuses operating at different locations in Malaysia. a)Sunway College i. Operating address (Bandar Sunway): No 2, Jalan Universiti, Bandar Sunway 47500 Selangor Darul Ehsan Contact Number: 03-56387176 Website: https://sunwaycollege.edu.my/ ii. Operating address (Velocity): V01-06-01, Lingkaran SV Sunway Velocity 55100 Kuala Lumpur Contact Number:03-97701155 Website https://sunway.edu.my/velocity/"
+    ],
+    [
+        "What additional campus kinds does Sunway provide, and what is the specifics of each?",
+        "b) Sunway University Address: No 5 Jalan Universiti, Bandar Sunway 47500 Selangor Darul Ehsan.Contact Number: 03-74918622 Website: https://university.sunway.edu.my/ c) Sunway College Ipoh No 1, 3 & 5, Persiaran SCI 2/2, Sunway City Ipoh, Address: 31150 Ipoh, Perak Darul Ridzuan. Contact Number: 05-545 4398 Website: https://sunway.edu.my/ipoh/ d) Sunway College Johor Bahru Address: No 3 Jalan Austin Heights Utama, Taman Mount Austin, 81100 Johor Bahru, Johor Darul Tazim Contact Number:07-3596880 Website: https://sunway.edu.my/jb/ e) Sunway College Kuching Address: No.1, Song Plaza (1st Floor), Lot 12168, Block 16, Jalan Tun Jugah / Jalan Song Intersection, 93350 Kuching, Sarawak, Malaysia Contact Number:082-451221 Website: https://swck.edu.my/ "
+    ],
+    [
+        "What is the objective of the Student Charter at Sunway University?",
+        "2.1 SUNWAY UNIVERSITY STUDENT CHARTER Sunway University is committed to providing a safe and enriching environment to help students achieve their full potential. The Student Charter outlines the approach Sunway University takes to support the students learning and help them achieve their full potential. The Charter also outlines the key expectations and responsibilities of a student at Sunway University."
+    ],
+    [
+        "What are some of the anticipated standards from Sunway University as outlined in the Student Charter?",
+        "The Student Charter encourages positive interaction between students and staff. The success of this partnership requires commitment and participation from both parties. The Charter is also intended to be an evolving document which will be reviewed periodically in the light of feedback and experience and is in no way a detailed personal agreement or contract. Sunway University is expected to: Provide high quality teaching and learning which will enhance student learning and development; Provide a safe and conducive environment for study, research and other activities;  Ensure that staff are courteous, professional and efficient;  Maintain effective communication with students, provide accurate and timely feedback about programmes, services and processes;"
+    ],
+    [
+        "What are some of the expectations set forth by Sunway University according to the Student Charter?",
+        "Provide useful feedback on assessment/academic work and opportunities for discussion;  Ensure students are treated equally and fairly by rejecting discrimination and harassment;  Provide clear information on fees and other costs of studying and payment methods;  Provide information on student support services available in the University;  Ensure that students contribute and participate in decision making through the Student Council; Provide an assessment system which is fair and transparent to all students;  Provide reasonable access to teaching staff/research supervisors to discuss programme matters;"
+    ],
+    [
+        "What are some of the expectations of the Sunway University outlined in the Student Charter?",
+        "Provide reasonable access to the University facilities and resources (e.g. library, IT labs);  Seek student feedback in improving courses and services in the University;  Provide appropriate guidance in the completion of undergraduate/postgraduate studies;  Offer suitable research topics based on the availability of facilities/resources and qualified supervisors in the field of intended research; Appoint qualified examiners to evaluate final thesis/dissertation. "
+    ],
+    [
+        "What are some of the expectations placed on students as outlined in the Student Charter?",
+        "Students are expected to: Familiarise themselves with the University rules and regulations;  Be committed in their studies and take the responsibility to monitor their own progress in the chosen programme; Ensure that all requirements and regulations of the programme or research are followed;  Respect all University staff and other students; avoid discrimination and harassment;  Use University facilities in a responsible manner (including library, IT labs); 10 Activate and utilise the University official student email account in the duration of study to ensure accurate communication between University and students (e.g. results notification, outstanding fees); Attend classes, submit assessment as required and fulfil attendance requirement;  Provide honest feedback and comments about their academic programmes, learning experience and services through surveys;"
+    ],
+    [
+        "What obligations do students have as stated in the Student Charter?",
+        "Pay all fees and charges within the deadline set by the University; Enroll correctly according to programme requirements and pre-requisites to ensure graduating in the chosen programme; Participate in the election of the Student Council who are representatives of the student body;  Recognise that plagiarism is not acceptable;  Seek advice when required from teaching staff and support services (e.g. counselling, health, etc.); Behave in a responsible manner and act as ambassadors for the University;  Maintain regular contact with teaching staff/supervisors for advice and constructive feedback;  Inform research supervisors if there are special needs required in completing the postgraduate research; Protect any intellectual property throughout the course of research and ensure all ethical procedures are followed."
+    ],
+    [
+        "What obligations or responsiblities are stated for students?",
+        "2.2 STUDENT RESPONSIBILITIES As a student of Sunway University, it is your responsibility to: Apply yourself fully to your studies.  Be familiar with the rules and regulations governing the programme in which you are enrolled.  Ensure that you have selected the subjects to meet your programme requirements.  Be punctual and attend all lectures, tutorials, practical sessions and seminars (if applicable) for each subject in which you are enrolled. "
+    ],
+    [
+        "What responsiblities are included in the Student Charter for students?",
+        "Meet deadlines for coursework to be submitted.  Submit original work without plagiarising or cheating.  Take the initiative and consult appropriately when encountering problems.  Be aware of the policies and practices of the University and of any academic or non-academic department contained in the materials and information made available to you. Be aware of the rules and regulations concerning the use of campus facilities IT, library, laboratories, etc. Demonstrate tolerance and respect for other students and all staff of the University.  Provide constructive feedback to the University regarding academic and administrative matters when necessary."
+    ],
+    [
+        "What is the objective of the Personal Data Protection Notice, how does Sunway Education Group manage personal information, and what measures are taken regarding its website?",
+        "2.3 PERSONAL DATA PROTECTION ACT (PDPA) Sunway Education Group respects and is committed to the protection of your personal information and your privacy. This Personal Data Protection Notice explains how we collect and handle your personal information in accordance with the Malaysian Personal Data Protection Act 2010. Please note that the institution may amend this Personal Data Protection Notice at any time without prior notice and will notify you of any such amendment via our website or by email. Detailed information is available at http://sunway.edu.my/pdpa/notice_english.html "
+    ],
+    [
+        "What is the purpose of the complaints and grievances policy, and what does it ensure?",
+        "2.4 COMPLAINTS AND GRIEVANCES POLICY This policy ensures that grievances and complaints are quickly and effectively resolved using standard procedures. Purpose: Ensure that the rights of both the University and the student are protected when a student submits a complaint or grievance. Ensure that the University processes enable student grievances and complaints to be resolved quickly and effectively. Ensure that the resolution of student complaints and grievances follows standard procedures across all departments in the University."
+    ],
+    [
+        
+        "What is a grievance or complaint and what does it entail?",
+        "If you believe that you have been treated unfairly, you can seek explanation and/or help. Such issues may concern an academic or administrative decision, the behavior of staff, the quality of teaching, the provision of services in the University, etc. However, the policy does not cover unsatisfactory academic progress, discipline, and exclusion for health and safety reasons. "
+    ],
+    [      
+        "To whom should students address the their complaint?",
+        "Most complaints can be resolved immediately. First, talk to the person about your concerns to see if your issue can be resolved. This person can be a student or a staff member of the University. If such a discussion is not appropriate or you feel uncomfortable about approaching the person, you may direct the complaint to the next appropriate level, such as your School/Centre Manager or the HOD. A senior member of staff will be assigned to investigate and attempt to conciliate the matter after receiving a complaint. If the issue cannot be resolved at this level, you may submit a formal grievance (in written form) to the Group Registrar of Sunway University."
+    ],
+    [
+        "How may students comment on the programme and its elaboration?",
+        "2.5 STUDENT FEEDBACK Student feedback is considered to be a vital element of the programme since it is through such feedback that the programme can be improved. There are a number of mechanisms for student feedback: At the end of each semester, an evaluation questionnaire will be issued. Each intake is entitled to nominate a student to act as representative on the Student-Staff Committee. The Committee meets once every long semester and encourages dialogue between students and staff in areas of administration, learning and teaching. Students are entitled to raise matters of concern or complaint with the lecturer, project supervisors or Programme Coordinator. Where appropriate a complaint may be made directly to the Dean."
+    ],
+    [
+        "From where can students find general rules and regulations, and what precautions should they take when posting information on the Internet?",
+        "2.6 UNIVERSITY RULES The Sunway University Code of Conduct Handbook contains information about the general rules and regulations applicable applicable to all students studying at the University. It also covers general policies and procedures which include student discipline proceedings. You may visit https://vine.sunway.edu.my to get the latest copy. 2.7 BLOGGING You are advised to exercise caution when posting information (in any form) on the Internet and avoid writing anything defamatory or seditious in your posting against the reputation of Sunway University and staff (including lecturers).The University may take disciplinary action against any student committing such offences if it deems that the posted information is offensive."
+    ],
+    [
+        "What actions are prohibited and the reasons for their prohibition?",
+        " 2.8 SMOKING AND VAPING Smoking or vaping is strictly prohibited when you are in all areas of Sunway campus (including areas such as car parks, sports facilities, toilets and campus accommodation). This prohibition covers all forms of smoking including cigarettes, real or electronic, pipes and other smoking utensils."
+    ],
+    [
+        "In what ways does Sunway University provide support to students with disabilities?",
+        "2.9 STUDENTS WITH DISABILITIES Students are strongly encouraged to disclose any disability (physical or learning difficulty) information to and seek advice and support from the Programme Leader/Coordinator. The University will seek to make reasonable adjustments to support the student whilst on the programme.The operation of appropriate special arrangements can be supported for students undertaking assessment, including timed examinations where a valid claim has been made and agreed in accordance with the relevant procedures (Appendix C). Requests for special arrangements may be refused where insufficient notice is given."
+    ],
+    [
+        "When are the Academic calendars available and where can they be accessed?",
+        "3.1 ACADEMIC CALENDARS Academic calendars are published on a yearly basis and they are available in the Learning Management System, eLearn."
+    ],
+    [
+        "What are the crucial deadlines and timeframes to keep in mind for subject enrolment and making changes to enrolment within a semester?",
+        "Each semester period is determined by a start-date and an end-date. Another important date within a semester period is the Add/Drop Subject period, which normally takes place within the first 2 weeks of a semester. This is the period where your subject enrolment is to be finalised. You are not allowed to change your subject enrolment for the semester after the Add/Drop Subject period. It is important to note that, certain fees paid are neither transferable nor refundable whether or not the adjustment of enrolment takes place within the Add/Drop Subject period. It is your responsibility to make yourself aware of the semester periods of the programme enrolled; the relevant Add/Drop Subject period and financial penalties. "
+    ],
+    [
+        "What are the dates for subject enrolment, Add/Drop subjects, and subject withdrawal deadlines for both the long semester and short semester?",
+        "Students should take note of the following deadlines. a) Subject Enrolment is Long Semester (14 weeks): Before week 1 and Short Semester (7 weeks) Before week 1. b) Last date to Add/Drop subjects is Long Semester (14 weeks): End of week 2 and Short Semester (7 weeks): End of week 1. c) Last date for subject withdrawal (with notation W in transcript) is Long Semester (14 weeks): End of week 10 and Short Semester (7 weeks): End of week 5. The tuition fee and other fees are stipulated in the fees structure of your programme. Semester fees must be paid in full on or before the commencement of new semester."
+    ],
+    [
+        "What are the payment deadlines for fees, what are the consequences for students with outstanding fees, and what are the different types of fees?",
+        "3.3 UNIVERSITY FEES AND CHARGES Fees due must be paid at the beginning of each semester. The Management reserves the right to exclude a student from attending classes and using campus facilities until the fees due are paid up. Any assessment or examination result(s), and academic transcripts shall be withheld if payment remains outstanding, and students concerned will not be able to enrol in subsequent semester or to graduate. Enrolment fee : upon accepting the offer of a place (non-refundable), Deposit : refundable, International admin fee : payable by semester *, Tuition fee : payable by semester *, Student resource fee 1 : payable by semester *, Compulsory General Studies subject fee: payable by subject (for Malaysian only)"
+    ],
+    [
+        "What are some examples of additional fees that are not included in the list?",
+        "Other fees (according to the programme enrolled): Lab fee (computer/IT/science related subjects), Security deposit, Placement fee Practical fee, Uniform and Utensils fee, Examination/Exemption fee, (internal/external) Literacy test fee, Student pass/special pass fee for visa endorsement/extension. For more information about the types of fee payable, please refer to the fees structure of the respective programme Terms and conditions apply for International Students. Please refer to the International Office(IO) for more information. 1. The student resource fee will be revised on a yearly basis and subject to change without prior notice. 2. Other fees may exist, which are not listed in the above table."
+    ],
+    [
+        "What payment options are available for fees and how can students contact the Financial Services Department for further inquiries?",
+        "There are various modes to choose from when making payment for fees. The following link provides you with full details of options available to you: https://university.sunway.edu.my/students/payment-instructions. For further enquiry, please contact Financial Services Department: Tel: (6) 03 7491 8622 Email to finance@sunway.edu.my Operating hours: Monday Friday (8.30am to 5.30pm) "
+    ],
+    [
+        "What does the conditional offer entail and how is it explained?",
+        "3.4 CONDITIONAL OFFER If you are currently studying in a programme under condition(s), you should request for a review of your current status at the earliest possible date. The review must be made within the first semester of your study or within the period specified in your offer letter. Students with forecast/pending results must submit a certified true copy of their actual results to the Registry within 10 working days from the official release date of the actual results. Failure to convert your conditional offer status on time will lead to your registration in the current programme being terminated. Further query and/or request for a review of your current status can be made at the Registry or by email at srga-op@sunway.edu.my."
+    ],
+    [
+        "What are the objectives of the orientation programme, when is it held, and what are the consequences of not participating?",
+        "3.5 ORIENTATION Orientation will be conducted at the beginning of each intake for new students before the first semester commences. It is designed to help you settle into the University by providing you with the important information you need at the start of your studies. You will be given relevant briefings to familiarise yourself with the policies and regulations governing your studies as well as guided tours to the various departments in the Sunway University campus."
+    ],
+    [
+        "How and when should students report for class?",
+        "3.6 REPORTING FOR CLASSES You are expected to report for classes at the beginning of each semester of the programme enrolled. In the event that you are unable to do so, you must inform your HOD or School/Centre Manager in written form explaining your circumstances. You will then be advised to take the necessary action."
+    ],
+    [
+        "What does iZone do, what does its website do, etc.?",
+        "3.7.1 iZone is the Sunway University Student Portal through which students can manage their studies. iZone allows students to enrol for subjects each semester and to obtain your exam results each semester. You may access iZone at https://izone.sunway.edu.my/"
+    ],
+    [
+        "What does eLearn do, what does its website do, etc.?",
+        "3.7.2 eLearn is a web-based learning management system at Sunway University. It is an integral part of your studies, as it used to obtain up-to-date and relevant information on the following: Class Timetable, Subject Syllabus, Assignment Details, Lecturers Timetable, Lesson Plan and Lecture Notes. You may access eLearn at https://elearn.sunway.edu.my/"
+    ],
+    [
+        "What does iMail do, what does its website do, etc.?",
+        "3.7.3 iMail is the Sunway University Student Email. All registered students at Sunway University are issued an official iMail account. The use of iMail accounts is one of the official communication channels between University and students. You may access the iMail at http://www.imail.sunway.edu.my/ Valid student login credentials are required in order to access eLearn and iZone and iMail.Contact your programme coordinator or IT Services staff if you face problems with access."
+    ],
+    [
+        "What does programme delivery refer to, and how can students stay informed about their timetable commitments?",
+        "3.8 PROGRAMME DELIVERY The University reserves the right to vary programme content as well as the locations and modes of academic delivery in case of force majeure. 3.9 TIMETABLES Timetables are posted on eLearn. Additional information, such as allocation of students to groups for tutorials and laboratory purposes will also be posted from time to time. In addition, please check the online notice boards regularly, and make sure you are aware of your timetable commitments, and that you attend at the proper time."
+    ],
+    [
+        "Who can offer advice on programme requirements, subject selection, and other academic issues, and what credit exemption possibilities are available?",
+        "3.10 SUBJECT SELECTION One or more staff members at the school or academic department of the programme enrolled will be appointed to give advice on programme requirements, subject selection and other academic matters. You may contact any of the following staff: Head of Department (HOD),  Programme Leader,  School/Centre/Department Manager,  Programme Coordinator. 3.11 CREDIT EXEMPTION Students with recognised diploma qualifications are eligible to apply for credit exemption. Students may also seek credit exemption and/or credit transfer for subjects completed during a Student Exchange programme, Study Abroad programme, or prior incomplete/completed studies at Bachelors level."
+    ],
+    [
+        "What is the procedure for applying for credit exemption and transfer, and who has the authority to approve or deny credit transfers and subject exemptions?",
+        "Students are required to complete and submit the Credit Exemption/Transfer Form to the Registry, along with certified true copies of their official examination results/transcripts and certificates of his/her academic achievements to the School/Centre. The syllabi for subjects taken in prior studies may be required for evaluation of equivalency to the subjects in the programme enrolled at Sunway University. The School/Centre has the authority to grant or reject any transfer of credits and exemption from subjects in the new programme."
+    ],
+    [
+        "What are the criteria for subject enrollment, and what are the repercussions when a student fails to enroll or submit formal requests?",
+        "3.12.1 SUBJECT ENROLMENT You are required to enrol for the subjects in each semester in order to complete your study. To do this, you may be asked to select and enrol for subjects for the new or following semester within the designated enrolment period. Information regarding the method and specific dates of enrolment will be given by the school or academic department. It is your responsibility to ensure that your enrolment is correct and submit formal request for the change in enrolment if necessary. You should seek advice from your School/Centre prior to submitting such request. If you fail to enrol or submit formal requests within this period, you may be subjected to the following: Liable for the payment of fees in the semester, A fail grade will be recorded in each subject of the semester, A prolonged period of your total study period. "
+    ],
+    [
+        "What are the deadlines for subject enrollment changes, and what happens if subjects are dropped after the scheduled subject add/drop period?",
+        "3.12.2 CHANGES TO SUBJECT ENROLMENTS Students shall be permitted to change subject enrolments within the first two (2) weeks of a long semester (14 weeks), or one (1) week of a short semester (7 weeks), which is known as the Subject Add/Drop period. Students are not permitted to register for additional subjects after the Subject Add/Drop period. Tuition fees will not be refunded for subjects withdrawn after the Subject Add/Drop period."
+    ],
+    [
+        "What prerequisites and dates must be met for subject withdrawal?",
+        "3.12.3 SUBJECT WITHDRAWAL The last date for subject withdrawal is by end of week ten (10) for a long semester and by end of week five (5) for a short semester. Subject withdrawal is only permitted if the student satisfies the following conditions: i. The students minimum academic load as full-time or part-time student is met after the withdrawal. Only 1 withdrawal is allowed for every academic year (applicable only to ADTP)."
+    ],
+    [
+        "What notation in cademic transcript will be made for dropped subjects",
+        "Subjects withdrawn after the Subject Add/Drop period will appear in the academic transcript with the notation W. "
+    ],
+    [
+        "What are the General Studies courses  and categories that students from Malaysia and other countries must take?",
+        "The General Studies subjects, are to be taken by all Malaysian and international students of Certificate, Diploma, Advanced Diploma and Degree. It is aimed at providing students with a holistic education and opportunities to engage in diverse life-long learning skills while acquiring valuable knowledge. The General Studies comprises of four main categories, which include the following: MPU U1 : Appreciation of philosophy, values and history  MPU U2 : Mastery of soft skills  MPU U3 : Broadening of knowledge in Malaysia  MPU U4 : Practical management of community projects 18 In addition to the above, Malaysian students who do not have a Credit in Bahasa Melayu from Sijil Pelajaran Malaysia (SPM) is required to undertake Bahasa Kebangsaan (A)."
+    ],
+    [
+        "If Malaysian students receive a credit or above in SPM Bahasa Malaysia, are they excused from the Bahasa Kebangsaan (A) subject?",
+        "Exemptions: Malaysian students can be exempted from taking the Bahasa Kebangsaan (A) subject if you have obtained a grade of credit or better in your Sijil Pelajaran Malaysia (SPM) Bahasa Malaysia paper. If eligible, you are required to apply for the exemption using the exemption application form and submit a certified copy of your SPM result slip/certificate."
+    ],
+    [
+        "Are MOHE Compulsory General Studies Subjects (MPU) exempt for foundation and graduate students?",
+        "Foundation and Postgraduate students are exempted from taking the MOHE Compulsory General Studies Subjects (MPU)."
+    ],
+    [
+        "What is the attendance policy at the university?",
+        "3.14 ATTENDANCE The University has a duty of care to its students and to ensure that each student makes the most of their learning opportunities while studying at the University. All students are expected to attend all teaching sessions on the timetable."
+    ],
+    [
+        "What happens if the minimum attendance requirement is not met and what steps must be taken to notify the school of absences?",
+        "Students are responsible for ensuring their attendance is rightly recorded via the mechanism provided by the Schools. Unsatisfactory Attendance Report (UAR) will be issued to students who do not meet the minimum attendance of 80%. It is the students responsibility to inform the lecturer/Programme Leader/Coordinator of his/her absence. The student may be required to disclose the reasons for absence."
+    ],
+    [
+        "What is expected of students when they are absent due to unusual circumstances?",
+        "In cases where absence was due to special circumstances (e.g. illness or family bereavement), students are expected to inform the School as soon as possible so that the absence records can be updated. Failing to meet the minimum attendance requirements without notification (and after all efforts made by the University to locate the students) will result in automatic deferment of the studies."
+    ],
+    [
+        "What ought a student to do if they require a break from their studies?",
+        "If the student require time away from studies, please discuss this with the Programme Leader or Head of Department."
+    ],
+    [
+        "How may a student correct a potential mistake in a report of an unauthorised absence?",
+        "If he/she feel that an unauthorised absence has been mistakenly recorded, he/she should inform the Programme Leader/Coordinator or designated administrative staff as soon as possible."
+    ],
+    [
+        "What methods are used to monitor student attendance in various programmes?",
+        "The School will monitor student attendance as below: During Lectures, tutorials and workshops (for conventional taught programmes), Via the formal assessments (for ODL taught programmes), During Mentor / Supervised meetings (for postgraduate research programmes). For International Students, please refer to Item 6.3 of this Handbook on Attendance Requirement for International Students. "
+    ],
+    [
+        "Where can students find the information needed to manage their studies? ",
+        "4.1 SOURCES OF ADMINISTRATION INFORMATION For advice on academic concerns, contact your School/Centre Manager or Head of Department. You may also refer to your programme handbook for information about managing your studies."
+     ],
+    [
+        "Where can students find information and assistance in managing their studies?",
+        "Your School / Centre Admissions for Enrolment, programmes, subject prerequisites, exemptions, timetables. Admissions Office for Office Admission, programme requirements, programme fees. Registry for Student records, Examinations(transcripts, certificates), graduation. Financial Services for Registry Fees, refunds. International Office (IO) for Visa application, student pass renewals, immigration requirement. Sunway Residence Management for Residence booking, charges."
+    ],
+    [
+        "The programme handbooks that list the programmes, subjects, and units/modules available can be found where by the students?",
+        " 4.2 PROGRAMME HANDBOOKS The programme handbooks are produced annually by the respective academic departments. These documents contain information on the programmes and subjects/units/modules offered to students in the academic year. The programme handbook is available in the Learning Management System, eLearn."
+    ],
+    [
+        "How are students recognised as Sunway University registered students?",
+        "4.3 STUDENT IDENTIFICATION You will be issued a student identification card, which contains your photograph, name and a unique student identification number. Your card identifies you as a registered student of Sunway University and enables you to access common services and other services related to the programme enrolled."
+    ],
+    [
+        "What can students do to safeguard their student identification card?",
+        "Your student identification card remains the property of Sunway University and is not transferable. You must carry your card at all times while in campus. You should take reasonable care to protect your student identification card. It should not be given to anyone else for use. Misuse of a student identification card may constitute misconduct."
+    ],
+    [
+        "How much does it cost to get a lost card replaced?",
+        "The replacement for a lost card will incur a fee of RM47 unless there is a police report. You should contact the Registry for instructions on replacing a lost card."
+    ],
+    [
+        "How is the student ID card's expiration date estimated?",
+        "The expiry date shown on your student identification card is calculated based on the duration of your programme. If you need to extend the expiry date, the Registry will produce a new card Loss of Student Identification Card Expired Cards"
+    ],
+    [
+        "What responsibilities do students have when it comes to maintaining their records at the university?",
+        "4.4 CORRESPONDENCE INFORMATION UPDATE It is your responsibility to ensure that information related to you kept by the University is up-to-date and formally notify the Registry of any changes especially change of contact numbers and addresses. All hardcopies of correspondence will be sent to the correspondence address recorded in the University computer system for student records."
+    ],
+    [
+        "How may students modify their contact information, and can they call in to request changes?",
+        "You can update your permanent address, residence address and other contact details by editing them directly in your My Profile page of iZone (https://izone.sunway.edu.my/login). Request for such changes via the telephone will not be accepted."
+    ],
+    [
+        "What kinds of official letters and documentation can students ask the institution for?",
+        "4.5 FORMAL DOCUMENT REQUEST A Confirmation of Student Status letter is a formal document to certify your studies, registration with the University, enrolment details or completion of study, etc. A letter may be required by a third party such as government agencies, sponsors, private organisations or employers. The current list of formal documents/letters available is given below: Certificate of student status  EPF withdrawal letter  Enrolment notification/confirmation   Academic transcript/progress report"
+    ],
+    [
+        "How do students make formal document or letter requests?",
+        "Students can also request for the letters through Izone."
+    ],
+    [
+        "Who can submit requests for documents or letters, are there any fees, when will they be delivered, and what aspects affect the processing time?",
+        "All requests for documents/letters must be formally submitted by the student. A fee may be charged for the issuance of each document. The issuance of a document/letter may take within 3 to 10 working days depending on the necessity for internal verification of your record."
+    ],
+    [
+        "How does a student submit an application for a deferment or leave from their studies?",
+        "4.6 DEFERMENT OR LEAVE OF ABSENCE If you wish to take a break in your studies, you must apply for deferment (or more commonly referred to as a leave of absence). In order to do this, you must first complete a Student Status Modification Form and submit it to the Registry or International Office."
+    ],
+    [
+        "How many deferments are permitted, how long can they last, and what are the repercussions?",
+        "A deferment is normally granted for 1 semester period. You are allowed a maximum of 2 deferments or a total deferment period of not more than 1 calendar year in your programme of study. It is your responsibility to be aware of the designated enrolment timeframe before applying for deferment in order to avoid paying any penalties. During the deferment period, you are considered a registered student of the University. You will be notified of the date to return to your programme of study and expected to report yourself for classes within the designated timeframe."
+    ],
+    [
+        "What is the definition of Deferment for Students with PTPTN Loan and what does it mean?",
+        "Deferment for Students with PTPTN Loan: Students with PTPTN Loan who wished to defer their studies are advised to seek clarification from PTPTN before applying for a deferment because it may affect their loan agreement with PTPTN and/ or disqualify them from applying for a loan waiver from PTPTN should they manage to secure a first- class honours degree upon completion of their studies."
+    ],
+    [
+        "What are the requirements to apply for transfers, and who should students consult with for guidance before making a transfer request?",
+        "4.7 TRANSFER REQUEST (PROGRAMME/INTAKE/STUDY MODE) The criteria for registered students to be eligible to apply for transfers are that they must meet the following requirements: Not on financial hold, Fulfil the minimum requirements for admission into the new programme, Obtain approvals from HOD or School/Centre Manager of the programme(s) involved for the release and acceptance of registrations. It is recommended that you seek advice from the HOD or School/Centre Manager before applying for a transfer."
+    ],
+    [
+        "What is the definition of financial hold status?",
+        "4.8 FINANCIAL HOLD STATUS Students will be put under financial hold status if they have outstanding payment(s) with the University. With this status activated, students will not be permitted to attend classes and access to the University facilities such as the library, computer services, science labs, residence, etc will be barred; unless clearance of the debts is made. You should avoid risking yourself from the financial hold status by making sure that you pay all fees applicable in your programme of study (including residence and other resource fees) at the start of each semester or by the designated timeframe."
+    ],
+    [
+        "Who should students turn to with appeals for academic, financial, and disciplinary issues?",
+        "4.9 APPEALS Appeals should be submitted to the respective personnel as listed below. a) Head of Department for Academic matters: admissions, enrolments, progression, and Appeals against examination results. b) Financial Services Manager for Fees matters: fees payment, forfeiture of fees, etc. c) Group Registrar for Disciplinary matters."
+    ],
+    [
+        "What is the tuition return policy following a formal withdrawal?",
+        "4.10 OFFICIAL WITHDRAWAL When discontinuing a programme, you must be aware of the relevant dates for refund/transfer of fees paid to avoid penalties. Enrolment and General fees are non-refundable whereas the proportion of tuition fee refund, upon official withdrawal, is shown below: 75% refund (by the 5th working day from the commencement of semester),50% refund (by the 6th-8th working day from the commencement of semester),No refund (after the 8th working day from the commencement of semester)."
+    ],
+    [
+        "What measures must be taken in order to completely discontinue from the programme?",
+        "If you wish to fully discontinue from your programme, you must consult/notify your HOD or programme coordinator and complete a Student Status Modification Form and submit it to the Registry (for local students) or International Office (for international students)."
+    ],
+    [
+        "Why is it vital to submit the Student Status Modification Form to the appropriate office at the conclusion of your programme if you do not desire to continue your studies at the university?",
+        " 4.11 PROGRAMME COMPLETION At the end of your programme, you should complete the Student Status Modification Form and submit it to the Registry (for local students) or International Office (for international students) if you do not wish to further your study at the University. This is to officially end your registration as a student at the University and also to formally request for the refund of deposits paid for your study. You should be aware of the period allowed for request of refund of deposits to avoid forfeiture of funds."
+    ],
+    [
+        "What does the university give students who complete an academic programme successfully and what criteria subjected for certificates to be accepted or endorsed??",
+        "4.12 CERTIFICATE AND ENDORSEMENT The University will provide appropriate certificates for all students who have successfully completed an academic programme. Endorsement or acceptance of certificates are subject to third parties discretion."
+    ],
+    [
+        "What are the primary issues addressed in terms of exam arrangements?",
+        "5.1 EXAMINATION ARRANGEMENTS An examination is defined as a formal, timed assessment of any duration that is subject to continuous invigilation. The University operates a strict Code of Conduct (Appendix A) in relation to the behaviour of examination candidates. A copy is made available to all examination candidates. It is the responsibility of the student to attend examinations in accordance with the published schedule. A student who fail to attend an examination will be awarded zero mark, unless mitigating circumstances are accepted. The University may require students to register for examinations and reserves the right to make a charge for this. Examination scripts are not generally returned to students."
+    ],
+    [
+        "What is the process for dealing with a student's absence from an exam, and what documentation is needed to substantiate a claim of a medical or mitigating circumstance-related absence?",
+        "5.2 ABSENCE FROM EXAMINATION Students are expected to be present for all tests and examinations at the time and place announced. If a student is absent without valid reason (mitigating circumstances) supported by documentary evidence, and a mark of zero will be awarded. Absence due to medical or extenuating circumstances will only be accepted if the student presents evidence within three working days to support his/her claim (such as a medical certificate issued by a doctor). Self-certification without a doctors confirmation will not be accepted."
+    ],
+    [
+        "What behaviours relate to cheating on tests and assignments as academic malpractice, and what penalties could be imposed on students who are found guilty of such offences?",
+        "5.3.1 CHEATING IN EXAMINATIONS AND COURSEWORK Students attention is drawn to the fact that cheating in examination and coursework is a serious academic offence that may constitute grounds for exclusion. Students are reminded of the regulations, which includes cheating as: communicating with or copying from any other student during an examination; communicating during an examination with any person other than a properly authorised invigilator; introducing unauthorised written, printed or electronically stored material into an examination room; gaining access to any unauthorised material relating to an examination during or before the specified time."
+    ],
+    [
+        "What behaviours are prohibited by university policies as plagiarism, and how does the university identify and deal with instances of plagiarism?",
+        "5.3.2 PLAGIARISM Plagiarism involves the unacknowledged use of someone elses work, usually in coursework, and passing it off as if it were his/her own. This category of cheating includes the following: verbatim copying or insertion of another persons work (published or unpublished and including material freely available in electronic form) without appropriate acknowledgement; the deliberate and detailed presentation of another persons concept as ones own; unacknowledged quotation of phrases from another persons work. Please note that Turnitin is a software to detect plagiarism and the University reserves the right to use this software on all submitted assignments. Other forms of dishonest practice not falling within the above definitions may also amount to malpractice."
+    ],
+    [
+        "What constraints on copyright does the Copyright Act of 1987 impose, and what kinds of materials are it designed to protect?",
+        "5.3.3 WARNING CONCERNING COPYRIGHT RESTRICTIONS Duplication, in any form, including digitally, of materials with copyright is strictly prohibited under the Copyright Act 1987, as amended and supplemented from time to time. The Copyright Act 1987 governs the protection of copyrighted works in Malaysia. Copyright works refer to lecture notes, slides and reading materials, as well as other literary, musical or artistic works (which includes books, plays, photographs, sculptures, paintings, computer programs) and films, sound recordings or broadcasts."
+    ],
+    [
+        "Where can students access detailed information regarding the processes and consequences related to academic misconduct and copyright infringement, and what resources are provided to familiarize themselves with the University's policies and procedures in these areas?",
+        "Any unauthorised reproductions, sale or hire, distribution and public exhibition by way of trade, constitutes infringement of copyright. Any breach of the Copyright Act 1987 is a punishable offence by the enforcement authorities. Students who violate the Copyright Act 1987 can be penalised by the University in accordance to the Disciplinary Procedures for Students outlined in the Student Code of Conduct. For more information, please refer to the official portal of Intellectual Property Corporation of Malaysia (MyIPO) at https://www.myipo.gov.my/en/home/ Details of the procedures involved in cases of Academic Malpractice can be found in Appendix B. Further details can be found in the University Academic Malpractice Policy and Procedures documents available in the iZone."
+    ],
+    [
+        "Within what period can students lodge an appeal regarding examination results or decisions made by the Assessment Board, and where can they locate the necessary procedures or information on initiating an appeal?",
+        "5.4 APPEAL AGAINST UNIVERSITY DECISION A student who is dissatisfied with the result of an examination or other decision by the Assessment Board on the grounds listed in Appendix D may submit a formal application of appeal to the School. The appeal must be made within FIFTEEN (15) working days of the release of result or receipt of notification on the Assessment Boards decision. Appeals received outside the stated timescales, without good reason, will be ruled invalid. The procedures for making an appeal against the Universitys decision can be found in Appendix D. Students are required to refer to the University Policy and Procedures documents available in the iZone for further details on the appeal."
+    ],
+    [
+        "Where can international students access dedicated support and services, and what are some examples of the services offered by the International Office?",
+        "6.1 INTERNATIONAL STUDENT SUPPORT Specialised support and services are available at the International Office. The International Office is located within the Student Centre at Level G (Ground), North Building, next to the cafeteria.Trained staff are available to aid, advice and support which include: Application for admission procedures; Airport pickup; Accommodation arrangement; Student pass (application, renewal, cancellation and queries); Insurance (hospitalization and outpatient). International students are strongly reminded to check the expiry dates of their student passes. It is their responsibility to update the IO of their student pass status at all times."
+    ],
+    [
+        "What are the consequences and potential risks for students who transfer from another Malaysian institution to Sunway University without applying for a new student pass?",
+        "If you are a student transferring from another institution within Malaysia into Sunway University, you must make a new student pass application to study at the University as you may otherwise face the risk of being deported midway through your studies."
+    ],
+    [
+        "What are the rules and guidelines of the Malaysian Immigration Department's policy regarding student passes for foreign students?",
+        "6.2 STUDENT PASS The policies and regulations governing student passes are imposed by the Malaysian Immigration Department and they are applicable to all international students studying in Malaysia. These rules and regulations must be adhered to. All international students are required to: a. Possess a valid Student Pass while studying in Malaysia. New International Students are required to complete the mandatory post-arrival medical screening to obtain the student pass endorsement."
+    ],
+    [
+        "What are the requirements of the Malaysian Immigration Department's policy regarding student passes for foreign students?",
+        "b. Ensure that their student passes are submitted to the International Office for extension (renewal) 3 months prior to the date of expiry. c. Inform the International Office before making plans related to their stay in Malaysia, such as change in pass status, change in contacts/addresses, returning home for holidays, application for deferment/transfer/withdrawal, industrial training/internship, etc. d. Report to the International Office upon completion of studies/ graduation and provide a copy of their flight ticket and passport to cancel their student visa. They are also required to complete the Student Status Modification Form and submit it to their respective programme administrator for approval and also to process the refund of deposit. e. Adhere to all other procedures and regulations imposed by relevant authorities."
+    ],
+    [
+        "What is the attendance policy for foreign students studying in Malaysia?",
+        " 6.3 ATTENDANCE All international students are required to adhere to the policy of the Immigration Department of Malaysia, and to meet a minimum of 80% of attendance and achieve a cumulative GPA of at least 2.00 27 and higher, for the renewal or extension of the student visa. The College is obliged by Malaysian law to inform the Immigration Department when an international student is absent for three consecutive classes in a semester without a valid reason. "
+    ],
+    [
+        "What are the consequences of not complying the attendance requirement?",
+        "Non-compliance to the attendance requirement (including absence for three (3) or more consecutive classes without valid supporting documents) will result in: a. Notification to the police, Ministry of Higher Education Malaysia, Education Malaysia Global Services (EMGS) and Immigration Department of Malaysia; and/or b. Cancellation / non-renewal of his/her student pass resulting in his/her course discontinuation Any student who plans to be absent from College with valid reason at any point during his/her studies, must inform the Director or Head of Programme in advance of the absence, and to ensure that his/her contact information is up-to-date. (Please refer to the International Office Student Handbook). "
+    ],
+    [
+        "What is the health insurance requirement for international learners, and who is in charge of ensuring that the policy is enrolled in and renewed?",
+        "6.4 HEALTH INSURANCE REQUIREMENT While you are in Malaysia, you must be covered with a Student Health Insurance Policy. This is a condition for your student pass for the duration of your stay. It is the responsibility of the student to remain enrolled in order for the policy to be renewed annually. Please contact the International Office for further information."
+    ],
+    [
+        "What should students at Sunway College with international student passes be aware of?",
+        "If you are holding an international student pass studying at Sunway College, you must be aware and observe the following: a. Your enrolment will be invalidated if you fail to complete the enrolment process properly and / or not reporting for classes. You will be required to return to your home country immediately."
+    ],
+    [
+        "What kind of follow-ups are necessary for Sunway College international students having a student pass?",
+        "b. If you choose to defer your studies, you are required to inform the International Office and provide supporting documents for your application for deferment (leave of absence).Apart from the approval from your Director of Programme, you also required to obtain approval from the International Office by submitting the Student Status Modification Form. Once your deferment is approved, you are required to return to your home country. Deferment without proper approval may result in a breach of the student pass conditions.The International Office will proceed with making a police report on your absence. from classes."
+    ],
+    [
+        "What are the next steps that Sunway College students with foreign student passes must be aware of?",
+        "c. If you choose to discontinue your studies, you are required to inform the International Office and you will be advised on the procedures and documentation required."
+    ],   
+    [
+        "What are the process a student holding an international student pass studying at Sunway College must be aware?",
+        "d. If you are transferring to another institution within Malaysia, you are required to obtain an official offer letter from the new institution and inform the International Office. The international Office will then advise you on the procedures and documentation required. "
+    ],
+    [
+        "What are the INTERNATIONAL office's contact details?",
+        "INTERNATIONAL OFFICE CONTACTS Hotline (Airport Pickup, Welfare Issues and Emergencies): +6019 336 2242"
+    ],
+    [
+        "What is the purpose of Student LIFE and how is it defined? ",
+        "The aim of Student LIFE is to provide a supportive, friendly and stimulating environment outside the classroom, to aid academic success as well as individual development."
+    ],
+    [ 
+        "What services does the Student LIFE's Counseling and Wellness division offers, and how may students contact them?",
+        "Counselling and Wellness, provides professional and confidential counselling by experienced and trained therapists on matters relating to academic, or social and personal issues such as emotional difficulties, relationship, self-development or family problems and cultural issues. Email: counselling@sunway.edu.my."
+    ],
+    [
+        "What services are offered by the Student LIFE's Sunway Career Services unit, and how may students get in touch with them?",
+        "Sunway Career Services , Provides comprehensive employment guide and career services to students, graduates and employers, Organises, employment related events and training involving students and employers,Provides information relating to career planning, job selection and employment advice. Email: careerservices@sunway.edu.my."
+    ],
+    [
+        "What services are offered by the Student LIFE's Alumni Relation division, and how may students can connect them?",
+        "Alumni Relation, Promotes and foster effective relationships between graduates and the College via various networking and developmental programmes, can contribute back to the institution via mentoring or speaking engagements. Email: alumni@sunway.edu.my."
+    ],
+    [
+        "What services does Student LIFE's Scholarship division offer, and how may students get in connection with them?",
+        "Scholarship, Provides information on scholarship and awards available at Sunway College. Email: scholarship@sunway.edu.my."
+    ],
+    [
+        "What services are provided by the Student LIFE department's Sports unit and how can students connect with them?",
+        "Sports, Provides information regarding sports facilities, sports clubs and tournaments. Email: sports@sunway.edu.my."
+    ],
+    [
+        "What services are provided by the Student LIFE's Student Leadership & Engagement department and how can students connect with them?",
+        "Student Leadership & Engagement, Provides avenues for students to tap into their full potential via leadership opportunities, creative thinking projects and community service. Facilitates student-run councils, clubs and societies by providing administrative support and advisory role for student activities. Email: sle@sunway.edu.my."
+    ],
+    [
+        "What services are provided by the Student LIFE's Sunway Cultural Exchange department and how can students connect with them?",
+        "Sunway Cultural Exchange, Organises inbound and outbound programmes for students to participate in  Provides opportunities for students to serve as hosts to international visiting students Provides avenues for international students to build a community and sense of belonging in Sunway and Malaysia Email: culturalexchange@sunway.edu.my. Provide Disability Services in understanding an individuals condition to access support services."
+    ],
+    [
+        "What services does Student LIFE department's Student Welfare unit provide and how can students contact them?",
+        "Student Welfare, Aid and advice in handling situation like bullying and harassment, victim of crime, conflict with peers, etc. Email: welfare@sunway.edu.my."
+    ],
+    [
+        "What services are offered by University Placement Services, and how can students get more information?",
+        "University Placement Service is the centre where students can make enquiries on university placement matters. Brochures are available for your research on universities and programmes. Presentations by various visiting universities, education fairs and other useful college information will be disseminated through your programme notice boards throughout the year. You can make appointments with counsellors to seek advice on matters related to your further studies pathway and application to universities of your choice. Contact +603 7491 8622 or email to placement@sunway.edu.my for more information. "
+    ],
+    [
+        "What services and whereabouts are offered by the Centre for English Language Studies?",
+        "The Centre for English Language Studies offers programmes to students who need help developing English language skills.English language test: You may be requested to sit for a language proficiency test at the beginning of your programme. Upon receiving your test results, you may be required to undertake an English language programme before commencing your study in the programme enrolled earlier. This depends on your score in the test. Further enquiries can be directed to staff at the Centre for English Language Studies, Level 3, North Building."
+    ],
+    [
+        "What is the PTPTN Education Loan Scheme's purpose, who is eligible to apply for the loan, and who to conatact with?",
+        "(PTPTN) The PTPTN Education Loan Scheme was created for the purpose of providing educational loans to students studying at local Higher Education Institutions. Malaysian student who registered as a full- time student in a programme approved by the Ministry of Higher Education and registered with PTPTN may apply for the loan. For further information, kindly refer to or contact us at financialaid- gclu@sunway.edu.my. https://www.sunway.edu.my/scholarships/financial-aid/ptptn All queries should be directed to Puan Norlela Norlela Abdul Rahman at norlelaar@sunway.edu.my for more information."
+    ],
+    [
+        "Which campus facilities are available to Sunway University's enrolled full-time students?",
+        "Sunway University endeavours to promote equal opportunity for all students and provide an environment free of unfair discrimination on grounds of gender, ethnicity, nationality, disability, marital status, occupation, sexual orientation, religion or belief, age or any other irrelevant distinction. As a registered full-time student of Sunway University, you are eligible to gain access to the campus facilities. The campus facilities include the IT services, the library, sports facilities and other common areas in the Student Centre."
+    ],
+    [
+        "What services are offered by the chosen facilities, and what additional fees are charged for their use?",
+        "Selected facilities may be assigned to you in accordance to the programme and/or subject you enrolled. Such facilities include science laboratories, language laboratory, specialised computer laboratories, campus accommodation, etc. Additional fees are applicable for the use of these facilities and the fees can be paid as part of the programme fees or as a separate charge."
+    ],
+    [
+        "What amenities and services does the Tun Hussein Onn Sunway Library offer and what is it website?",
+        "The Tun Hussein Onn Sunway Library constitutes 3 floors, with a total floor area of 72,000 sq ft and provides 1,300 seats. The Library offers a range of teaching and learning facilities, including individual and group study, Silent Zone, Group Project Pods, Training Rooms, computer areas, Viewing Zone, Collaborative Zones, Instructional Lab and an extended hour study area which is open after the Library closes. The resource-rich library is equipped with print, audio-visual and e-resource collections. Users can access e-resources within the campus and remotely from anywhere in the world through their computers or mobile devices. The librarys website (https://sclibrary.sunway.edu.my) provides links to information about the librarys collection, facilities and services."
+    ],
+    [
+        "What are IT Learning Labs, and what are the Sunway campus's IT Learning Lab operating hours?",
+        "Sunway campus has two main IT Learning Labs to support teaching and learning. Each has multiple labs of PCs and Macs with a comprehensive range of software. Labs are accessible during: Lab Location Operational Hours  8:00am - 7:00pm, Monday to Friday  8:30am - 1:00pm, Saturday  Closed on Sunday and Public Holiday Level 1, South West of Sunway College Building IT Learning Labs 8.00am to 5.30pm, Monday to Friday  Closed on Saturday, Sunday and Public West Wing of Sunway University Building IT Learning Labs Holiday"
+    ],
+    [
+        "What services does ITS offer, and how to contact them?",
+        "Information Technology Services (ITS) operates helpdesks to assist students in making effective use of the IT resources. To get support for any computer-related matters, head over to any of the helpdesk located at the IT Learning Labs, or choose any of the following options: Email: helpdesk@sunway.edu.my  Telephone: +603 7491 8622"
+    ],
+    [
+        "What are the accessible campus computing facilities, how do registered students access them?",
+        "All registered students are given their own Student ID & single login password that enables them to access the campus computing facilities. This includes Internet access, WIFI access, and systems like eLearn and iZone portal. Student accounts also give access to facilities like scanning, photocopying and printing. WIFI internet access is available in all common and public areas of the campus."
+    ],
+    [
+        "What web applications are available to students for online learning, and what functions can be carried out with these apps?",
+        "The VINE, iZone and eLearn are web applications specially designed for all students to facilitate their online learning experience. The VINE is an intranet that allows you to read latest announcements and happenings in the College. the VINE at You must use a computer within https://vine.sunway.edu.my. the campus network to access iZone is a student portal system that can be accessed from outside the campus via https://izone.sunway.edu.my. Depending on the programme enrolled, you may use iZone for all (or selected) functions listed below: Download handbooks and official forms  Enrol subject(s) in a semester  View your enrolment history, progress report or semester results and statements"
+    ],
+    [
+        "What does Sunway University's eLearn program do, and how does it encourage collaboration among students and professors?",
+        "eLearn is the campus learning management system that enable collaboration between lecturers and students in their learning process. It facilitates the teaching and learning virtually via the Internet. All students are issued with an iMail email account. This is the official method by which Sunway will communicate with students on a range of administrative and academic matters."
+    ],
+    [
+        "What is the importance of using an iMail email account for communucation with Sunway University?",
+        "When corresponding with Sunway via email, students must use their iMail email account. Using the iMail email account helps to ensure students identity and validity of the communication."
+    ],
+    [
+        "What is Bring Your Own Device (BYOD) Policy, and how does it affect how students use electronic devices for classes, academic activities, and online exams?",
+        "The Bring Your Own Device (BYOD) Policy refers to students being required to bring and use an appropriate digital device to connect, access, use or participate in the learning platforms and software to support and enrich their studies. It allows students to access a broad range of course related applications and access vLab at https://vlab.sunway.edu.my using their personal devices in the classroom or anywhere in the campus. Effective 1 Jan 2024, all students required to bring their own device (BYOD) when they come on-campus for classes, academic sessions and online examinations, or as required by their academic leaders."
+    ],
+    [
+        "What are the many laboratories that campus offers, where are they located, and what particular objectives do they serve?",
+        "There are several other laboratories available within the campus which are mainly used for teaching purposes. These laboratories are: Science Labs: they are used mainly by the Pre-University programmes for science related subjects such as Biology, Chemistry and Physics; located at Level LG (Lower Ground), South Building and Level LG (Lower Ground), North Building. Multimedia Production Lab: this lab houses a sound recording studio for the production of media contents; located at Level LG (Lower Ground), South Building. English Language Lab: the lab is used for teaching English Language programmes. The lab is located at Level 2, South Building."
+    ],
+    [
+        "What safety precautions and rules are expected of students when they work in the laboratories?",
+        "Lab safety: If you are studying in a programme which requires sessions in the laboratories, your safety and that of your fellow students and staff is of primary concern. Your academic department will provide specific rules and regulations of the laboratories including the safe handling of materials. You are strongly advised to take utmost care while handling specialised equipment and inflammable or poisonous materials. Take no risks. Refer to a member of staff."
+    ],
+    [
+        "What are the responsibilities and obligations of the staff and students with regard to health and safety on campus?",
+        "staff and students of the College are expected to comply with the health and safety arrangements within the campus. It is the duty of all staff and students whilst within the College, be familiar with the emergency instructions, telephone locations, emergency exits, assembly points, fire alarm call points, fire extinguishers and first aid boxes in study or work areas: 1. Take reasonable care to maintain the health and safety of themselves and others who may be affected by the way in which they carry out their work; 2. Cooperate with all staff and students to enable them to carry out health and safety duties; 3. Report to supervisory staff any situation, working practice or procedures which may be dangerous or hazardous."
+    ],
+    [
+        "What are the duties and requirements for staff and students in terms of health and safety on campus?",
+        "4. Report incidents to supervisory staff; 5. Handle all equipment or materials with care; 6. Comply to health and safety instructions; 7. Follow the health and safety instructions given by the Health and Safety department. 33 8.5.1 FIRE EMERGENCY In a fire emergency, please do the following: 1. DO NOT panic; walk rapidly to the nearest exit 2. Close all doors and windows if you are in a room 3. Raise the alarm immediately by breaking nearest fire alarm break glass 4. Dial 8112 or +037491 8777 and give details of your location to the Security Officer 5. Leave the building and assemble at the nearest assembly point Important Fire Precaution Notice: DO NOT stop to collect your belongings or use the lift.  DO NOT re-enter the building until it is declared safe to enter."
+    ],
+    [
+        "What steps should be taken and is there a particular procedure to follow in the event of an accident, incident, or lightning warning within the campus?",
+        "All accidents involving injury of staff, students and visitors within the campus must be reported to the Health and Safety department or the Security department as soon as possible. For accidents that involve serious injury (e.g. major fracture, head injuries, etc.) the victim shall be taken to Sunway Medical Centre. For your safety and well-being please take note of the strobe lights and warning alarm when using the field. Should the alarm ring and the strobe lights flash when you are on the field, you are required to cease all outdoor activities, evacuate the field and move indoors. You may resume your outdoor activities once the strobe lights stop flashing and any danger of lightning has passed."
+    ],
+    [
+        "What steps does Sunway University have to assist students and staff with disabilities or long-term medical issues and gain access to the appropriate facilities and services?",
+        "Sunway strives towards promoting access and equity for all students and staff, which also caters for those who are physically disabled or with long-term medical conditions. Some facilities in the campus building are friendly to all students and staff, such as access ramps, lifts, toilets for the disabled, etc. There are also designated parking lots on campus that can be reserved on a request basis. However, enquiries regarding disability support services can be made at the Health and Safety Office. The Assembly Points of Sunway Campus are stated as below. Emergency Contact Contact No. Health and Safety Office 03-7491 8678 (ext 8520) Nightingale Bay (nurse) 03-7491 8670 (ext 8522)"
+    ],
+    [
+        "What are the contact information and location of Sunway University's Health and Safety Office and Nightingale Bay, and how may students and employees call the campus security service in the event of an emergency?",
+        "The Health & Safety office is located at South West building, Ground Floor 8.6 CAMPUS SECURITY SERVICE The campus security service operates around the clock 24 hours a day, seven days a week. In the event of an emergency, contact the following emergency numbers:  External phone or mobile: +603 7491 8777 Internal phone: dial 8112 Personal security: The College encourages a cooperative approach by students, staff and the campus security officers by working together to create a safe campus environment. Recognise and avoid situations of potential risk: You are strongly advised to take charge of your personal security within the campus and as well as outside campus, in order to reduce the opportunities for crime."
+    ],
+    [
+        "How to ask about sports clubs and facilities, what indoor and outdoor game facilities are available on campus, and who to contact for further information?",
+        "8.7 SPORTS FACILITIES The College recognises the importance for staff and students to maintain a balance in their work and studies with leisure. You may contact staff at the Student LIFE Centre regarding sport clubs and facilities available. Indoor and outdoor game facilities available on-campus includes: FIFA 1 Star Synthetic Football Field  SunGym  Basketball/Volleyball Courts  Tennis Court Netball/Dodgeball/Handball Court  Badminton Courts  Olympic-sized Swimming Pool 36 Table Tennis Tables  Power Studio  Jogging Track For information on sports tournaments and facilities, please come to the Student LIFE Centre or email sports@sunway.edu.my."
+    ],
+    [
+        "What exactly is the definition of on-campus accommodation?",
+        "The Sunway House Student Residences Management manages the on-campus accommodation. Priority is given to full-time outstation and international students, and places are allocated on a first- come-first-serve basis. All rooms in the residence are equipped with a set of basic furniture such as bed, study table and chair, book shelf and wardrobe. Each residence unit has a dining table and chairs, sofas, shower heaters, pantry and refrigerator. Cooking is not allowed in the residence unit. Meals can be taken at the residence cafe, the campus cafeteria or nearby stalls/restaurants which are located within a short walking distance from the campus."
+    ],
+    [
+        "What are the facilities offered by on-campus accommodation, and what does it include?",
+        "Facilities provided within the on-campus accommodation include cafe, convenience store, internet access, laundry services, sports amenities, study rooms, prayer rooms (surau), etc. For further information on Sunway House Student Residences, you may visit their website at residence.sunwayhouse.com.my or email your enquiries to enquiry_residence@sunway.edu.my."
+    ],
+    [
+        "What is about bookshop and its details?",
+        "The bookshop is located at Level G (Ground) next to the cafeteria and is open Monday to Friday from 8.30am to 5.30pm, and Saturday from 9.00am to 1.00pm. Besides selling text books and magazines, the bookshop offers a range of snacks, stationeries and gift items. "
+    ],
+    [
+        "What is about public transport and its details?",
+        "The College campus is located within the Sunway metropolitan area and can be accessed via several public transport systems. Elevated Bus Rapid Transit: The current 5.4km BRT connects seven stations including Sunway- Setia Jaya, Mentari, Sun-Med, SunU-Monash, South Quay and USJ7, offer fast, cost effective and integrated transport solution, in areas which are densely populated and in need of a reliable public transportation system. Sunway Shuttle Bus: Travelling within the Sunway Resort City is a breeze as there is also the option of hopping on to the free of charge shuttle buses provided by Sunway. This service is popular among other nearby institutions students too."
+    ],
+    [
+        "What are the public transport offered and their details? ",
+        "Taxis or E-Hailing Rides: Taxis or e-hailing rides can be booked easily though various hailing ride apps. You can also easily get a taxi near the University entrance and at the taxi stop outside the Sun-U Residence (on-campus accommodation). Trains: The nearest station is the Subang Train Station located approximately 6km from the College campus. The station is serviced by trains going to/from Kuala Lumpur connecting to other major cities in Malaysia. Others: Smart Selangor Bus, LRT, KTM"
+    ],
+    [
+        "What are Sunway Originals or Sunway Travel and their respective details?",
+        "1) Sunway Originals: The shop located next to Student LIFE, sells the College signature products ranging neck ties, scarves, mugs, pens, t-shirts, key chains, planners, interesting pewter items and more. The opening hours are from 11.00 am to 3.00 pm, Mondays to Fridays. For more information, please email sunwayoriginals@sunway.edu.my. 2) Sunway Travel: All students and staff can use the facilities provided by this travel agency, which include schedule enquiries, booking of air tickets, purchasing travel insurances, hotel accommodation and package tours. Telephone +603 5639 9030 or email them at travelinfo@sunway.com.my"
+    ],
+    [
+        "What are about Banks or ATM Machines or Surau, and their respective details?",
+        "3) Banks and ATM Machines: There are several ATM machines available within the University campus. They are located at Level G (Ground), South Building (behind the Security Office) and Level UG (Upper Ground), New University Building. The banks operating the ATM machines are Maybank and CIMB bank. International students may obtain a letter from the IO to open a bank account with the respective bank. 4) Surau: Prayer rooms are available in the campus buildings for Muslim staff and students. These rooms are located at Level 1, North Building, Level 3, South Building and Level M (Mezzanine), New University Building."
+    ],
+    [
+        "What are about Vending machines or Locker Rental or Carpooling, and their respective details?",
+        "5) Vending machines: Numerous vending machines are available in the campus buildings as well as in the on- campus accommodation residences. These machines offer a wide range of snacks and beverages. 6) Locker Rental: Lockers are available for rent. They are located within the campus buildings. You can enquire about the service and charges at the Student LIFE Centre or email studentsupport@sunway.edu.my. 1) Carpooling If you drive to the College, you should consider having a car pool. Carpooling involves sharing your vehicle with others or joining others in their vehicle. This will help you save money on petrol and parking, reduces traffic congestion on the roads which is good for the environment."
+    ],
+    [
+        "What is about Sunway Pyramid Shopping Mall, and its details?",
+        "2) Sunway Pyramid Shopping Mall is accessible by the Canopy Walk from the 1st floor, East Building. The Canopy Walk connects Sunway College to Sunway Pyramid (completed in November 2010, 360m, about 8-minute walk) and Sunway College to Monash University Malaysia. The Canopy Walk is safe walk with 24- hour auxiliary police patrol and a total of 35 CCTVs. Bowling/Cafes/Gym/Food or Beverage Outlets/Restaurants/Retail Shops: It is highly recommended that you shop at the Sunway Pyramid shopping mall as you will get almost everything you need under one roof. The mall opens daily from 10.00am to 10.00pm, seven days a week. Cinemas: The cinemas in Sunway Pyramid shopping mall offer the latest movie titles in the country. Show your student ID card to purchase movie tickets at discounted prices!"
+    ],
+    [
+        "What is about Post Office, and its details?",
+        "Post Office: The nearest post office can be found in the Sunway Pyramid shopping mall. This post office offers a wide range of postal services such as registered post, domestic and international postal service, payment of bills, etc. The post office is open 9.00am to 5.00pm, Monday to Friday. Hypermarket: You may shop for your groceries at the hypermarket in the Sunway Pyramid shopping mall and enjoy reasonable prices for all the items you need. Address : Sunway Pyramid Shopping Mall, No 3 Jalan PJS 11/15, Bandar Sunway, 46150 Petaling Jaya, Selangor Darul Ehsan, Malaysia. Telephone Fax Website : +603 7492 9998 : 603 7492 6333 : https://www.sunwaypyramid.com/ "
+    ],
+    [
+        "What are about Sunway Lagoon Theme Park or Sunway Medical Centre, and their respective deatils?",
+        "3)Sunway Lagoon Theme Park has over 90 attractions spread across 88 acres. It features rides and attractions on its water and dry parks. Refer to their website for their operating hours. Address : Sunway Lagoon, No 3 Jalan PJS 11/11, Bandar Sunway, 47500 Selangor Darul Ehsan, Malaysia. Telephone Fax Website : +603 5639 0000 : +603 5639 0050 : http://sunwaylagoon.com/ 4) Sunway Medical Centre is one of the most reputable private hospital in Malaysia, offering a comprehensive range of health services and facilities including 24-hour emergency services. The hospital is along the same road as the Sunway campus, and is about 1km away. Address : Sunway Medical Centre, No 5 Jalan Lagoon Selatan, Bandar Sunway, 47500 Selangor Darul Ehsan, Malaysia. Telephone Fax Website : +603 7491 9191 : +603 7491 8181 : http://sunwaymedical.com/"
+    ],
+    [
+        "What is Code of Conduct in Examinations and its details?",
+        "Failure to adhere to the following rules and regulations can result in a student being disqualified for the examination. 1. Arrival Time Candidates will be allowed to enter the examination hall/room 10 min. before commencement of the examination. Candidates arriving after 30 minutes of commencement of the examination will not be allowed into the examination room. 2. General Instructions Candidates are required to observe any general instructions which may be given by the Chief Invigilator and to note carefully any instructions that appear on the front of the examination paper. "
+    ],
+    [
+        "What is Code of Conduct in Examinations about and its details?",
+        "3. Authorised Materials No writing paper or manuscripts may be taken into the examination room, other than those specifically permitted. Bags must be left at the designated storage area before a candidate approaches his or her assigned seat. Headwear (such as caps or bandanas), pencil cases, electronic devices (such as smartphones, PDAs, or iPods) and programmable calculators are not allowed. Candidates are not allowed to borrow stationeries from another candidate."
+    ],
+    [
+        "What means by Code of Conduct in Examinations and its details?",
+        "No communication between candidates is allowed as soon as the candidate enters the examination room until the candidate leaves the examination hall/room. Candidates wishing to communicate with the Chief Invigilator should raise their hand to attract attention. Any candidate that leaves his or her seat without permission will be disqualified. 5. Permission to Leave the Examination Room Candidates are not allowed to leave the examination hall/room within the first 30 minutes and the last 15 minutes of the examination. Candidates can only leave the examination room once (normally) to go to the toilet during the examination accompanied by an invigilator. 6. Candidate Behaviour Smoking and eating are not permitted in the examination hall. "
+    ],
+    [
+        "What is Code of Conduct in Examinations all about and its details?",
+        "7. Examination Materials Candidates are not permitted to remove examination materials from the examination room unless specified by the Chief Invigilator. All examination scripts remain the property of the Examination Unit. 8. Candidate Responsibilities Candidates are required to adhere to the instructions for the conduct of the examination as set out in this document and any other instructions which may be issued to candidates through the Chief Invigilator. "
+    ],
+    [   "What is about Guidelines on Academic Malpractice General and its details?",
+        "Malpractice may be broadly defined as an attempt to gain an advantage over other students by the use of unfair and unacceptable methods. Common to all cases of malpractice is the attempt to affect by deceitful means an assessment of academic ability, standing or progress."
+    ],
+    [
+        "If the University concludes that a student has engaged in academic malpractice, what action will it take and how will it handle the situation?",
+        "1.2 The University shall have the right to investigate any allegation of academic malpractice against a student and may take disciplinary action where it decides, on the balance of probabilities, that an act of malpractice has been committed. 1.3 The University has a zero-tolerance policy towards academic malpractice and treats lapses without leniency. To claim ignorance will not preclude the offender from the penalties accrued of having unintentionally commit academic malpractice."
+    ],
+    [
+        "What is about Types of Malpractice and its details?",
+        "Types of Malpractice 2 2.1 Cheating is an infringement of the rules governing conduct in examinations or other forms of time-constrained assessment. Cheating includes the following: i. gaining access to any unauthorised material relating to an examination during or before the specified time;ii. any form of communication with or copying from any other student or any other source during an examination, except in so far as the assessment criteria/rubric may specifically permit; iii. communicating during an examination with any person other than a properly authorised invigilator or another authorised member of staff; introducing any written, printed or electronically stored information into an examination room, unless expressly permitted by the assessment criteria/rubric for the examination; v. making use of electronic calculators and other portable electronic devices except as permitted under the rubric of the examination, and in the provision for students with additional assessment requirements;"
+    ],
+    [
+        "What are the details of Types of Malpractice?",
+        "vi. accessing or receiving information in an examination by electronic means, such as from a mobile phone; vii. the placing of unauthorised items on the examination desk (including pencil cases, mobile phones); viii. the use of mobile telephones, or other communication devices during an assessment or examination; ix. fabricating information in an examination, e.g. use of artificial citations; and/or x. impersonating another student, or procuring an impersonator."
+    ],
+    [
+        "What is about Plagiarism and its details?",
+        "2.2 Plagiarism consists of unacknowledged use of someone elses work and attempting to pass it off as ones own. It includes the representation of work: written, visual, practical or otherwise, of any other person, including another student or anonymous web-based material, or any institution, as the candidates own. It may take the form of: i. the verbatim copying or insertion of anothers work without clear identification and acknowledgement - including the downloading of materials from the internet without proper referencing, published or unpublished and including work of another student;"
+    ],
+    [
+        "What are the details about Plagiarism?",
+        "43 ii. paraphrasing by, for instance, substituting a few words or phrases or altering the order of presentation of another person's work, or linking unacknowledged sentences or phrases with words of one's own; iii. unacknowledged quotation of phrases from another persons work; iv. the deliberate and detailed presentation of anothers concept as ones own; v. work that has been completed, altered, translated or corrected by another person, and is submitted as if it was the student's own work; vi. work that has already been published in another language, and have been translated into English by the student themselves or by another person; vii. direct facsimile of an image, a sound or performance without due acknowledgement of its source;"
+    ],
+    [
+        "What constitutes Plagiarism or Collusion and its details?",
+        "viii. copying work that was originally completed and submitted by the student and resubmitted for another purpose, without acknowledgement of this, unless resubmission is allowed; Collusion occurs when there is conscious collaboration, without official approval, between two or more students in the preparation and production of work which is ultimately submitted by each in an identical or substantially similar form and/or is represented by each to be the product of his or her individual efforts. Collusion includes: i. unauthorised collaboration with another student in completion of work; ii. submission as entirely his/her own work, work done in collaboration with another person, with the intention to gain an unfair advantage;"
+    ],
+    [
+        "What is considred Collusion or Fabrication and their respective details?",
+        "iii. knowingly permitting another student to copy all or part of one's work which that student then submits as their own unaided work; iv. falsely claims involvement in approved and assessed group work and colludes with that group in order to deceive the lecturer or tutor. Fabrication of results occurs when a candidate falsely claims to have, for example, carried out tests, research or observations as part of his/her assessed work, or presents fabricated results with the object of gaining an advantage. Fabrication may also include: i. falsifying data or material in the presentation of laboratory reports; fieldwork reports, projects, work-based learning, etc.;"
+    ],
+    [
+        "What is about Fabrication and its details?",
+        "ii. presentation of artificial references or other source material purporting to demonstrate a depth of reading or knowledge beyond that undertaken, e.g. embellishment of the bibliography; iii. alterations and supplementing the data in order to misrepresent the results; iv. falsifying evidence in support of applications, for example for mitigating circumstances or academic appeals. Impersonation is the assumption by one person of the identity of another person with intent to deceive or to gain unfair advantage in the assessment process."
+    ],
+    [
+        "What is Breaches of Confidentiality and its details?",
+        "Breaches of Confidentiality occurs when a student does not follow confidentiality and/or anonymity protocols and includes: i. direct naming of an individual or organisation where protocols prohibit this; ii. iii. provision of information that could lead to the identification of individuals or organisation, inclusion of documentation than links to privileged information; e.g. dates of birth, hospital record numbers, addresses or reference to unusual. "
+    ],
+    [
+        "What are other types of dishonest practice and what do they entail?",
+        "Other forms of dishonest practice not falling within the above definitions may also amount to malpractice. This includes, but is not limited to: i. attempting to obtain special consideration by offering or receiving inducements or favours; ii. making false declarations to deceive staff and/or to receive special consideration; iii. procuring another person's work or intentionally buying work from a website or other source; iv. the submission of false claims of previously gained qualifications, research or experience in order to gain credit for prior learning; v. Ensuring the non-availability of books, journal articles or other reference materials in the library by deliberately removing or mis-shelving them so that other students may not be able to find and use the materials."
+    ],
+    [
+        "What is about Student Responsibility and its details?",
+        "Students have a responsibility to be aware of the policy and procedures regarding academic malpractice, to understand the seriousness of academic malpractice and to take every reasonable step to ensure that academic malpractice does not occur. It is the responsibility of the student to take reasonable precautions to guard against unauthorised access by others to his/her work, both before and after assessment."
+    ],
+    [
+        "What does the procedures dealing with Academic Malpractice entail?",
+        "Procedures dealing with Academic Malpractice 4.1 Instances of first offences will be dealt with locally by Programme Leaders who will establish whether prima facie case exist. Once prima facie case is established the case is to be reported to HOD and Head of Academic Matters. 4.2 HOD will convene a panel of three members of academic staff with the Programme Leader and at least one other member of academic staff; the Panel should not include a member of staff involved in delivering the course concerned. The panel will review the evidence and may derive at either the case is dismissed or upheld."
+    ],
+    [
+        "What are the procedures dealing with Academic Malpractice and its details?",
+        "4.3 An instance of major offence (including at first offence) and subsequent offence will be referred to Provost Office for review and final outcome. A copy of the outcome letter will be sent to the students and Student Records and General Administration Unit for filing. 4.4 Initial Handling of Academic Malpractice The initial procedures of handling academic malpractice vary with regard to types of academic malpractice, level of student, the severity of the infringement and whether there has been more than one infringement. An investigation of the incident of academic malpractice will follow after initial procedures. "
+    ],
+    [
+        "What is Academic Malpractice in Exams and how is it defined?",
+        "4.4.1 Academic Malpractice in Examinations i. Where an invigilator suspects that any form of cheating, as defined in Academic Malpractice Policy, has occurred in an examination, the invigilator should: a) b) confiscate any relevant evidence (e.g. any unauthorised material) c) where possible, have steps (a) and (b) witnessed by another invigilator; d) annotate the students script and endorse the front cover at the point which the inform the students of her/his suspicions and the intention to report the incident; alleged cheating occurred; e) return the script to the student and permit the student to continue with the examination and to conclude at the normal stipulated time of the examination."
+    ],
+    [
+        "What can an invigilator do if there is a disturbance or disruption during an exam and when is the deadline for invigilator's report and the academic malpractice notification form?",
+        "ii. Where procedure outlined in 4.1.1 above leads to disturbance or disruption, or where the procedure is invoked against a student for a second time in an examination, the invigilator has the authority to expel the student from the examination. The invigilator must record the action taken in their report of the examination. iii. No later than one (1) working day after the conclusion of the examination, the invigilator will submit the Academic Malpractice Notification Form and a report to the Director of Student Administration and Programme Leader."
+    ],
+    [
+        "What details, as described in Section 5.5 of the document, should be included in the report the invigilator submits on an alleged academic malpractice and what happens next after the report is submitted?",
+        "iv. The report from the invigilator should provide account of malpractice (including the time of the incident and students response to the allegation) and be accompanied by any relevant supporting evidence (including any confiscated materials). Where possible, the report should include comments and signatures of other invigilators who were present at the time the alleged malpractice took place. v. Thereafter, Academic Malpractice Investigation procedure as stipulated in Section 5.5 of this document will take place. "
+    ],
+    [
+        "What is the definition of assessing the Severity of Academic Malpractice?",
+        "4.5 Assessing the Severity of Academic Malpractice Each case is different, and the Panel are expected to use their judgment in deciding the seriousness of an offence and deciding whether there are circumstances that might affect the severity of the penalty. Panels must attempt to ensure consistency of treatment between cases, making and recording a judgement about what is a proportionate penalty."
+    ],
+    [
+        "What are the factors to be taken into account when determining the penalty, its appropriateness, and its details?",
+        "4.5.1 Factors to consider when determining the penalty and its proportionality include the following: i.The candidates level of study: the more advanced and experienced the candidate (the more serious the offence);ii. The proportion of the piece of work that was subject to malpractice (the higher the proportion, the more serious the offence);iii. The candidates previous history (a subsequent offence, occurring after a candidate has already received a warning or a penalty for academic malpractice, is more serious than a first offence); iv. The degree of intention to deceive in the piece of work in question (which might be assessed by, for example, efforts to change wording, poor referencing or lack of referencing of plagiarised material, evidence from earlier drafts), but also in the hearing itself by failure to tell the truth."
+    ],
+    [
+        "What factors are taken into account when a decision is made about an academic malpractice case and its justification?",
+        "4.5.2 The judgement made on any case shall give details of the relevant factors considered, stating the degree to which they contributed to the decision and will state the Panels intentions in terms of the impact of the penalty on progression/degree awarded. "
+    ],
+    [
+        "What are the levels of offence involved?",
+        "The types of offence operate on two levels: i. First or Subsequent Offence and ii. Major or Minor Offence."
+    ],
+    [
+        "What is First Offence about and its details?",
+        "a) First Offence A first offence may be a minor or major offence. For minor offences, a student will receive a warning letter from the School which details the infringement and provide recommendations for students to improve their study skills. The letter should also carry the warning of consequences of repeat or subsequent offences. Students may acquire assistance from their lecturers if they are uncertain on how to avoid subsequent academic malpractice. A copy of the warning letter will be provided to Registry to be kept in student file. "
+    ],
+    [
+        "What Subsequent Offence entails and its details?",
+        "b) Subsequent Offences A second or subsequent offence can only be described as such when any previous offence has been notified to the student and any associated investigation has been undertaken and the outcome notified to the student. Should multiple incidents of malpractice arise simultaneously for the same student, the Panel will investigate all incidents at the same time as first joint offence. All second and subsequent offences (minor or major) must be referred to Provost Office for consideration. All such cases will be treated as a serious academic offence."
+    ],
+    [
+        "What is the definition of a major or minor offense?",
+        " ii. Major or Minor Offence: The severity of academic malpractice shall be decided on whether it is deemed as a major or minor offence. The table below offers guidelines on the most common occurrences of malpractice. It is by no means a comprehensive list, so for incidents which fall outside these descriptions and which may not be clear-cut, responsibility for determining the severity of the malpractice will rest with the Panel of Inquiry. "
+    ],
+    [
+        "What is minor exam cheating and how is it defined?",
+        "Minor Cheating in Examination Examples include: i. Where a student brings into a formal examination hall/room paperwork relating to the examination, but does not utilise it during the examination period."
+    ],
+    [
+        "What is major exam cheating and how is it defined?",
+        "Major Cheating in Examination Examples include: iii. Blatant use of written, printed or electronic material not permitted within the rubric of the examination. iv. Communication with any other student in the examination room. ii. Where supplementary material is v. Inappropriate communication with a member of academic staff during the period of the examination. permitted, but the material introduced exceeds to some extent the defined limits of the examination criteria. vi. Obtaining unauthorised material prior to the examination. vii. Second minor incident "
+    ],
+    [
+        "What is Minor Plagiarism and how is it defined?",
+        "Minor Plagiarism Examples include: i. Unattributed use of a few sentences or a short paragraph, poor referencing, incorrect or incomplete citation or inappropriate paraphrasing at diploma and degree Year 1 levels and as first incident at degree Year 2 level [At Degree Year 3 level and Masters level, such malpractice offence are regarded as unacceptable and will be considered under Major Offence."
+    ],
+    [
+        "What is Major Plagiarism and how is it defined?",
+        "Major Plagiarism Examples include: ii. Wholesale copying or paraphrasing of multiple paragraphs or wholesale papers from a source text without acknowledgement. iii. Appropriating the work of another iv. student and submitting it as ones own. v. Where any student has employed a ghost writer, either in person or via web-based provision (e.g. cheat sites), to produce the assessment on their behalf. [At Degree Year 3 level and Masters level, such malpractice offence are regarded as unacceptable and will be considered under Major Offence] vi. Accusations by one student of anothers plagiarism of his/her work after thorough inquiry.Type ii may be regarded under Minor Offence at Diploma and Degree Year 1 level only. However, if it is a second offence at Diploma and Degree Year 1 level, it will be considered as a Major Offence] [Types iii - v must always be considered as Major Offence, regardless of the level of study.]"
+    ],
+    [
+        "What is Minor Collusion about and its details?",
+        "Minor Collusion Examples include: i. Where the submission includes 1-2 paragraphs which are the same as that of another student. This could also amount to plagiarism. ii. Where, at Diploma and Degree Year 1 level, the student misinterprets the assessment criteria and submits the same/similar work as another student. For example, where group work is required in the preparation, but the submission of individual items is expected. [These may be considered as minor offence if they are first offence at Diploma and Degree Year 1 level only], [At Degree Years 2 and 3 level and Masters level, such malpractice offence are regarded as unacceptable and will be considered under Major Offence]."
+    ],
+    [   "What exactly is Major Collusion and its details about?",
+        "Major Collusion Examples include: iii. Where two or more submissions adopt the same structure/format at Degree Years 2 and 3 level and at Masters level where not determined by assessment criteria or guidance by tutor. iv. Where the same unattributed paragraphs are used in the submissions of more than one student. v. Where the work submitted is merely a paraphrasing of another students work. This could also amount to plagiarism. vi. Where the work of one student is identical to that of another. This could also amount to plagiarism."
+    ],
+    [
+        "What is the definition of minor fabrication or falsification?",
+        "Minor Fabrication / Falsification Examples include: i. Where information/data or source material has been invented. [This example may only be considered under Minor Offence for Diploma and Degree Year 1 level students], [At Degree Years 2 and 3 level and Masters level, such malpractice offence are regarded as unacceptable and will be considered under Major Offence]"
+    ],
+    [
+        "What is Major Fabrication / Falsification about and its details?",
+        "Major Fabrication / Falsification Examples include: ii. Any work / submission / application falsified by a student in order to gain academic advantage (including mitigating circumstances applications to Assessment Board). iii. Citation of false references, particularly in order to mask plagiarised texts. [The above examples will be considered under Major Procedures for all students regardless of their level of study]"
+    ],
+    [
+        "What exactly is impersonation?",
+        "Impersonation can only be considered under Major Procedures."
+    ],
+    [
+        "What is the view on academic misconduct in terms of punishments?",
+        "5. Penalties Imposed 5.1 No circumstances justify academic malpractice, and a penalty must always be applied. Although students may present evidence of mitigating circumstances (which may be considered when determining the penalty to be applied), it must always be borne in mind that students are encouraged to bring such circumstances to the attention of their School at the earliest possible opportunity."
+    ],
+    [
+        "What are the potential penalties that could be used in cases of academic malpractice, and how do they differ in terms of seriousness and particular conditions?",
+        "The action taken where academic malpractice has been found, and the severity of the penalty applied, will depend on the individual circumstances prevailing. Penalties that may be considered are: i. Warning in writing to the student (kept on the students file until the completion of their studies). ii. A requirement to resubmit the relevant piece(s) of work by a specific deadline as a First Attempt (mark not capped). iii. A requirement to resubmit the relevant piece(s) of work by a specific deadline as a Second Attempt capped at the minimum pass mark. iv. A requirement to resubmit the relevant piece(s) of work by a specific deadline as a Final Attempt capped at the minimum pass mark."
+    ],
+    [
+        "What are the potential penalties that could be imposed in cases of academic misconduct, and on what grounds could students utilize their right to appeal in such cases?",
+        "v. A requirement to repeat the subject and results capped at the minimum pass mark. vi. Suspension or Expulsion from the programme and the University. vii. Degree or other award that is held by the student revoked by the University. 5.2 Students found guilty of academic malpractice have a right of appeal on the grounds of an administrative or procedural error or where there is a new evidence."
+    ],
+    [
+        "What actions does the university take to ensure fair evaluation of students who have medical conditions or disabilities?",
+        "The University will make special arrangements where possible, to ensure fair assessment of students with disabilities or unforeseen medical circumstances."
+    ],
+    [
+        "What is defined in alternative sites for assessment, adjustments to the scheduling of assessment, use of certain equipment or software, and their details?",
+        "Alternative locations for assessment incldues specific location agreed within a conventional examination room, adapted examination furniture/ special lighting provided, separate room for examinations, physical access to the location and to lavatory facilities suitable for the disabled. Adjustments to the timing of assessment includes  extra time agreed, rest periods/ breaks agreed within a lengthy time-span. Use of specific equipment or software includes use of PC/ laptop for examinations (with restrictions on what can be imported into the examination setting), use of video/ tape recorder for oral answers."
+    ],
+    [
+        "What is the elaboration of the procedures for making special arrangements?",
+        "Procedures for Making Special Arrangements  i. Students who need special arrangements are advised to discuss their requirements with the Dean of School at the start of the semester and provide up-to-date documentary evidence to support their need. ii. A written request is submitted to the Examination Unit with details of specific arrangement and approved by the Dean of School. iii. The request has to be submitted as soon as possible and at least four weeks before any examination in order to enable the claim for special needs to be fully considered and arrangements made. Students who have had additional arrangements in a previous year should renew the arrangements and to indicate any necessary changes to previous requirements."
+    ],
+    [
+        "What is included in the special arrangements procedures?",
+        "iv. Students should be aware that additional examination arrangements will be reported to the chair of the Programme Assessment Board. Exceptional arrangements will need to receive the approval of the Chair of the Board who may consult with the appropriate subject lecturers. Students who require additional examination arrangements to be made in examinations as a result of unforeseen medical circumstances are required to follow the same process as outlined above, supported by appropriate medical certification. Students are required to submit requests and medical certification as soon as possible following the accident/illness/diagnosis in order to allow time for such provision to be made."
+    ],
+    [
+        "What is the goal of Sunway University's student appeals policy, and how does it support the institution's commitment to ensuring equality and fair opportunity?",
+        "Sunway University is committed to giving its students the best experience possible. However, there may be occasions when students may feel that they have grounds to appeal against an academic decision or request for a formal review of a decision made by a Sunway University academic body or officer. The Student Appeals Policy provides a framework for the University to respond to appeals in a way that contributes to the Universitys supportive and fair learning environment, and is consistent with the principles of fairness and equal opportunity. The University expects that students appreciate that appeals will not always result in their preferred conclusion. Regardless of the decision, students will be informed of the outcome of a formal appeal and the reasons for it."
+    ],
+    [
+        "How does Sunway University decide whether to pursue an appeal and what considerations are taken into account?",
+        "1.2 The University reserves the right to decline to pursue an appeal, including but not limited to circumstances where another process is more appropriate, or where the student does not have sufficient grounds to lodge an appeal."
+    ], 
+    [
+        "What is an appeal's consideration and its details about?",
+        "1.3 Consideration of an appeal will be restricted to circumstances where: 1.3.1.1 there has been or could have been incorrect application of policies, procedures or administrative processes that may have been disadvantaged the student; 1.3.1.2 there is evidence of mitigating circumstances which may have affected the students performances of which the University was not aware when the decision was taken, and which could not reasonably have been presented to the University earlier; 1.3.1.3 there is evidence that the decisison made did not take any mitigating circumstances into sufficient account, or that the decision made is manifestly unreasonable; 1.3.1.4 additional relevant evidence has come to light since the decision was taken which could not have been made available earlier; "
+    ],
+    [
+        "What issues do not constitute grounds for an appeal?",
+        "1.4 The following matters do not constitute grounds for an appeal: 1.4.1.1 Disagreement with a mark or grade or a degree classification awarded; 1.4.1.2 Challenges to academic judgements of examiners on an assessment outcome or level of award granted; 1.4.1.3 Claims that academic performance, including attendance, was adversely affected by mitigating circumstances, such as ill-health, but for which no contemporary medical or other appropriate evidence is provided; 1.4.1.4 Claims that academic performance, including attendance, was adversely affected by mitigating circumstances, which were not, but which could, reasonably, have been disclosed prior to the decision being made(1 Mitigating circumstance are covered under the University Mitigating Circumstances Policy, which can be found on the ASQ pages of the Vine and on eLearn); 1.4.1.5 Complaints against delivery of teaching and methods of assessment."
+    ],
+    [
+        "What does the general procedure entail and how is it explained?",
+        "2. General Procedure 2.1 An appeal may be made by completing and submitting the appropriate form for appeals electronically. An independent documentary evidence or information which is relevant to the case must be included to support the appeals.2.2 For rechecking of assessment marks, an appeal must be made to the Examination Unit, Registry Office by filling in the Student Appeals Form: Assessment Result within fifteen (15) working days from the assessment result release date."
+    ],
+    [
+        "What is the underlying general procedure and how was it explained?",
+        "2.3 For other academic matters, an appeal must be made to the School also within fifteen (15) working days from receiving notification from the School by filling in Student Appeals Form (Academic Matters). 2.4 An application which does not satisfy the grounds for appeal as stipulated in the Student Appeals Policy will be dismissed. 2.5 There are various stages of the appeal process. A student must exhaust any lower level of appeal before proceeding to the next higher level."
+    ],
+    [
+        "What are the details of the Stage 1 of the Procedure (Appeal to the School)?",
+        "3. Procedure: Stage 1 (Appeal to the School) 3.1 Under stage 1, appeals shall be considered by the School Appeals Committee or other equivalent committee officially recognised by the University for the purposes of considering student appeals. The Committee shall review the evidence provided by the student, and may in exceptional circumstances, and at its sole discretion, invite the student to present their case in person. 3.2 The School Appeals Committee may: (i) Uphold the appeal or (ii) Reject the appeal 3.3 Where the appeal is upheld, the Committee shall recommend to the Provost Office such reasonable actions, but excluding any financial compensation, it deems appropriate to remedy the matter."
+    ],
+    [
+        "What is the followed-up Stage 1 of the Procedure (Appeal to the School) and what does it entail?",
+        "3.4 The Committee may defer any decision where it feels further investigation is necessary to enable reasonable judgment to be made. If judgement is deferred, the Chair of the Committee shall initiate necessary investigations, and arrange of the Committee to reconvene to re-consider the appeal. 3.5 When the Committee finds that there are valid circumstances for appeal but is unable to uphold the appeal since it requires the School to operate outside the boundaries of the University Academic Regulations, the Committee shall refer the appeal to the Stage 2. 3.6 Except where the appeal is referred to the Stage 2, the judgement of the School Appeals Committee will be final."
+    ],
+    [
+        "What are the details of Stage 2 of the Procedure (Appeals to the Appeals and Special Case Committee)?",
+        "53 4. Procedure: Stage 2 (Appeals to the Appeals and Special Case Committee) 4.1 Under stage 2, appeals shall be considered by the Appeals and Special Cases Committee of the University (ASCC), or other equivalent committee officially recognised by the University for the purposes of considering stage 2 appeals. 4.2 The student shall be notified on the outcome of the ASCC and any remedial steps to be taken. This includes the reasons why the appeal was rejected. "
+    ],
+    [
+        "What is the followed-up Stage 2 of Procedure(Appeals to the Appeals and Special Case Committee) and what does it entail??",
+        "4.3 The Committee may defer any decision where it feels further investigation is necessary to enable reasonable judgment to be made. If judgement is deferred, the Chair of the Committee shall initiate necessary investigations, and arrange of the Committee to reconvene to re-consider the appeal. 4.4 The Decision of ASCC is final and there shall be no further rights of appeal."
+    ]
+]
